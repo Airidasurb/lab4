@@ -1,4 +1,4 @@
-package com.example.lab4; // Pasitikrink savo package!
+package com.example.lab4;
 
 import android.content.Intent;
 import android.content.SharedPreferences;

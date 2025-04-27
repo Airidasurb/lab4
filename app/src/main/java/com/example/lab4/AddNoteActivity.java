@@ -1,4 +1,4 @@
-package com.example.lab4; // tavo package
+package com.example.lab4;
 
 import android.content.Context;
 import android.content.SharedPreferences;
